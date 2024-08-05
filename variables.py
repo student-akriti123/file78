@@ -1,0 +1,9 @@
+age=66
+name="aswa"
+price=39.9
+print(age)
+print(name)
+print(price)
+print(type(name))
+print(type(age))
+print(type(price))
